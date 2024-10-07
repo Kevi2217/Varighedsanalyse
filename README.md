@@ -1,0 +1,2 @@
+# Varighedsanalyse
+Varighedsanalyse - miniprojekt
